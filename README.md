@@ -40,3 +40,10 @@ uv run --with pytest==8.3.4 pytest -q
 - [Nguồn dữ liệu và giấy phép](ATTRIBUTION.md).
 
 `lint` chỉ kiểm định dạng file. Nó không so bài của bạn với GT và không cho điểm. Coach chấm bằng `road_check check` hoặc `road_check batch` sau buổi.
+
+## Bài nộp (Google Drive)
+
+- Thư mục Drive (`dang-front.zip` và `dang-fisheye.zip`): https://drive.google.com/drive/folders/1dN3rbIAUI7GAl2zXtZsnb2igaqvbf_OW
+- Báo cáo cá nhân: [dang-report.md](dang-report.md)
+- Manifest bàn giao: [dang-manifest.json](dang-manifest.json)
+- Phiếu QC 1 cho `2A202603314`: [dang-qc1-for-2A202603314.md](dang-qc1-for-2A202603314.md)
